@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 300; }
 
 a {
-  color: #2845FF; }
+  color: #D24200; }
 
 a:hover {
   text-decoration: none;
@@ -23,7 +23,7 @@ input.form-control {
 input.form-control:focus,
 textarea.form-control:focus {
   box-shadow: none;
-  border-color: #2845FF; }
+  border-color: #D24200; }
 
 img {
   max-width: 100%; }
@@ -32,7 +32,7 @@ img {
   font-size: 1em; }
 
 .color-primary {
-  color: #2845FF; }
+  color: #D24200; }
 
 .color-badge {
   color: #10e1c2; }
@@ -103,7 +103,7 @@ img {
   border-bottom: 1px solid #e0e9e8; }
 
 .panel.panel-list a:hover {
-  border-left-color: #2845FF;
+  border-left-color: #D24200;
   background-color: #fafafa;
   text-decoration: none; }
 
@@ -140,7 +140,7 @@ img {
   font-family: 'Pacifico', cursive;
   font-size: 1.5em;
   text-align: left;
-  background-color: #2845FF; }
+  background-color: #D24200; }
 
 .side-nav .logo-section p {
   color: #fff;
@@ -191,7 +191,7 @@ img {
 
 .side-nav .menu a:hover,
 .side-nav .menu a.active {
-  border-left: 4px solid #2845FF;
+  border-left: 4px solid #D24200;
   color: #fff; }
 
 .side-nav .menu a:last-child {
@@ -250,20 +250,20 @@ img {
   background-color: #ebefef; }
 
 .btn.btn-primary {
-  background-color: #2845FF; }
+  background-color: #D24200; }
 
 .btn.btn-primary.btn-line {
-  color: #2845FF;
-  border: 1px solid #2845FF;
+  color: #D24200;
+  border: 1px solid #D24200;
   background: transparent;
   box-shadow: none; }
 
 .btn.btn-primary.btn-line:hover {
-  background-color: #2845FF;
+  background-color: #D24200;
   color: #fff; }
 
 .btn-special {
-  background-color: #2845FF;
+  background-color: #D24200;
   color: #fff;
   font-size: 1.5em;
   font-weight: lighter;
@@ -272,7 +272,7 @@ img {
   margin-top: 40px; }
 
 .btn-special:hover {
-  background-color: #2845FF;
+  background-color: #D24200;
   color: #fff; }
 
 .popup-form {
@@ -349,7 +349,7 @@ img {
 .mega-menu .links a.active,
 .mega-menu .links a:hover,
 .mega-menu .links a:first-child {
-  border-left-color: #2845FF;
+  border-left-color: #D24200;
   color: #444; }
 
 .mega-menu .links a.active,
@@ -366,7 +366,7 @@ img {
   background-color: transparent; }
 
 .mega-menu .links a.inactive:hover {
-  border-left-color: #2845FF;
+  border-left-color: #D24200;
   color: #444; }
 
 .mega-menu .content {
@@ -571,7 +571,7 @@ img {
   padding: 20px;
   margin-left: 260px;
   min-height: 100%;
-  border-top: 5px solid #2845FF; }
+  border-top: 5px solid #D24200; }
 
 .page-title-section > h1 {
   height: 50px; }
@@ -641,7 +641,7 @@ img {
   border-radius: 0; }
 
 .progress-bar {
-  background-color: #2845FF;
+  background-color: #D24200;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none; }
@@ -685,7 +685,7 @@ img {
   padding: 20px; }
 
 .special-form a:hover {
-  color: #2845FF;
+  color: #D24200;
   text-decoration: underline; }
 
 .hug {
@@ -721,7 +721,7 @@ img {
   font-family: 'parmapetitregular';
   font-size: 7em;
   text-transform: uppercase;
-  color: #2845FF;
+  color: #D24200;
   line-height: .9; }
 
 .mascot {
@@ -751,11 +751,11 @@ img {
 
 .hug-features i {
   font-size: 6em;
-  color: #2845FF; }
+  color: #D24200; }
 
 .hug-features h3 {
   margin-top: 0;
-  color: #2845FF;
+  color: #D24200;
   text-transform: uppercase;
   font-size: 1.4em;
   letter-spacing: 1px; }
@@ -774,7 +774,7 @@ img {
   margin: 0 auto; }
 
 .hug-info {
-  color: #2845FF;
+  color: #D24200;
   padding-bottom: 290px;
   position: relative;
   background-color: #fff;
@@ -803,7 +803,7 @@ img {
   margin-bottom: 50px; }
 
 .hug-ui {
-  background-color: #2845FF;
+  background-color: #D24200;
   color: #fff; }
 
 .hug-ui .text-bucket {
@@ -866,10 +866,10 @@ img {
   font-size: 1.5em; }
 
 .hug-footer hr.special {
-  background-color: #2845FF; }
+  background-color: #D24200; }
 
 .hug-footer a {
-  color: #2845FF; }
+  color: #D24200; }
 
 .hug-footer a:hover {
   color: #fff; }
