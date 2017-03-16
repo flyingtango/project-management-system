@@ -1,0 +1,15 @@
+/bootstrap/compiled.php
+/vendor
+/public/uploads/files/*
+composer.phar
+composer.lock
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+.idea
+/public/uploads/files/*
+/vendor
+/node_modules
+Homestead.yaml
+.env
