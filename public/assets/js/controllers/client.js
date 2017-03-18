@@ -107,9 +107,9 @@ var client = new Vue({
 
         showSheet();
         makePrompt(
-            "Are you sure you want to delete the client: "+currentClient.name+"?",
-            "By deleting this client you will loose all data associated with any project under this client",
-            "Not now", "Yes");
+            "您确认要删除这个负责人？ "+currentClient.name+"?",
+            "删除这个负责人后，属于这个负责人管理的项目、任务和文件都会删除。",
+            "取消", "确定");
 
         $("#cancel-btn").click(function(){
             closePrompt();

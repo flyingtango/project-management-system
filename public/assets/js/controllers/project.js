@@ -157,7 +157,7 @@ var project = new Vue({
         },
         deleteTask: function(taskId){
             showSheet();
-            makePrompt("Are you sure you want to delete this task?","","No now", "Yes");
+            makePrompt("您确认要删除这个任务?","","取消", "确定");
 
             $("#cancel-btn").click(function(){
                 closePrompt();
@@ -385,7 +385,7 @@ var project = new Vue({
         },
         removeMember: function(project_id, member){
             showSheet();
-            makePrompt("Are you sure you want to remove this member from this project?","","Not now", "Yes");
+            makePrompt("您确定要将此负责人移出项目？","","取消", "确定");
 
             $("#cancel-btn").click(function(){
                 closePrompt();

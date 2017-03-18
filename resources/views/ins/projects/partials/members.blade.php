@@ -12,8 +12,11 @@
             </form>
         </section>
         <footer>
-            <a v-on:click="inviteUser(project.id)" class="btn btn-primary pull-right" style="color: #000";>发送邀请</a>
+        <center>
+            <a v-on:click="inviteUser(project.id)" class="btn btn-primary" style="color: #FFF">发送邀请</a>
+            <a class="btn btn-primary" style="color: #FFF" href="{{ route('projects.show', ['id' => '']) }}/@{{ project.id }}";>确认</a>
             <div class="clearfix"></div>
+        </center>
         </footer>
     </div>
     <div class="col-xs-12 col-md-6">
