@@ -1,5 +1,5 @@
 <div class="footer">
-	<p>COPYRIGHT 2017 &copy; 南昌大学JUST</p>
+	<p>COPYRIGHT 2017 &copy; flyingtango</p>
 </div>
 
 <script src="{{ asset('assets/js/main.js') }}"></script>
